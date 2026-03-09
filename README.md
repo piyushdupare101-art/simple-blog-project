@@ -14,4 +14,5 @@ This is a simple blog web application built using HTML, CSS, and JavaScript.
 - JavaScript (DOM Manipulation)
 
 ## Author
+
 Piyush Dupare
